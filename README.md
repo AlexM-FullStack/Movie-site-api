@@ -10,14 +10,14 @@ View movie details including poster and rating.
 Watch trailers for selected movies (if available).
 
 Technologies Used
-JavaScript
-HTML
-CSS
-TMDB API
-Fetch API for asynchronous data retrieval
-Event listeners for interactivity
-DOM manipulation for rendering content
-Responsive design for various screen sizes
+JavaScript,
+HTML,
+CSS,
+TMDB API,
+Fetch API for asynchronous data retrieval,
+Event listeners for interactivity,
+DOM manipulation for rendering content,
+Responsive design for various screen sizes,
 
 Usage
 Click on the Trending link in the header to view trending movies and TV shows.
